@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/oraripfcarignano/static/css/main.8ae0e698.css",
+    "main.js": "/oraripfcarignano/static/js/main.ff4b6528.js",
+    "index.html": "/oraripfcarignano/index.html",
+    "main.8ae0e698.css.map": "/oraripfcarignano/static/css/main.8ae0e698.css.map",
+    "main.ff4b6528.js.map": "/oraripfcarignano/static/js/main.ff4b6528.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ae0e698.css",
+    "static/js/main.ff4b6528.js"
+  ]
+}
